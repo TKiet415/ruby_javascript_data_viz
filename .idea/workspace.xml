@@ -3,13 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a2f02816-3171-4eb5-abad-420bafb17b03" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/products/index.html.erb" afterPath="$PROJECT_DIR$/app/views/products/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ruby_javascript_data_viz.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="a2f02816-3171-4eb5-abad-420bafb17b03" time="1384985783074" ignored="false" />
-    <file path="/index.html.erb" changelist="a2f02816-3171-4eb5-abad-420bafb17b03" time="1385004357522" ignored="false" />
+    <file path="/index.html.erb" changelist="a2f02816-3171-4eb5-abad-420bafb17b03" time="1385007484784" ignored="false" />
     <file path="/products_controller.rb" changelist="a2f02816-3171-4eb5-abad-420bafb17b03" time="1384988383830" ignored="false" />
+    <file path="/a.rxml" changelist="a2f02816-3171-4eb5-abad-420bafb17b03" time="1385005534876" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="31" selection-start="1883" selection-end="1883" vertical-scroll-proportion="0.7005445">
+            <state line="89" column="90" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.6188748">
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -84,6 +84,22 @@
     <option name="y" value="22" />
     <option name="width" value="960" />
     <option name="height" value="1016" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -208,8 +224,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.intentionPowerPack" />
     <property name="recentsLimit" value="5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
@@ -562,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="31" selection-start="1883" selection-end="1883" vertical-scroll-proportion="0.7005445">
+        <state line="89" column="90" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.6188748">
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
