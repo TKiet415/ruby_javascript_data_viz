@@ -5,6 +5,7 @@
 <h2> Products in the market </h2>
 
 <div id="highChartContainer" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+<a href="#" data-hide-element="chart">Chart</a>
 
 <table>
   <tbody>
@@ -62,6 +63,10 @@
                     %>
             }]
         });
+    });
+
+    $('[data-hide-element=chart]').on('click', function(){
+        $('#highChartContainer').toggle()
     });
 </script>
 
